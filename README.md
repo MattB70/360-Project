@@ -1,2 +1,9 @@
 # 360-Project
-School project.
+University of British Columbia
+
+Contributors:
+
+Matthew Borle
+Danielle Macdonald
+Samual Finnigan-Griffin
+Tasha Kucher
