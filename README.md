@@ -15,7 +15,7 @@
 </tr>
 <tr>
     <td>Samual Finnigan-Griffin</td>
-    <td>TODO</td>
+    <td>40816167</td>
 </tr>
 <tr>
     <td>Tasha Kucher</td>
